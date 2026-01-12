@@ -27,7 +27,7 @@ This project aims to enhance the customer experience by:
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaServer Pages
 - **Backend**: Java
 - **Database**: Oracle
 
